@@ -1,10 +1,13 @@
-![5624255](https://github.com/user-attachments/assets/38269d79-7800-4cb3-b027-2c9cd2007ffd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38269d79-7800-4cb3-b027-2c9cd2007ffd" alt="5624255">
+</p>
 
-# Exercism Solutions
+<h1 align="center">Exercism Solutions</h1>
+
 
 This repository is designed to organize and track solutions to coding challenges from [Exercism](https://exercism.io). The structure is organized by programming language, with separate folders for learning and practicing. Each challenge is housed in its own folder, and multiple versions of each solution are stored within.
 
-## Repository Structure
+<h1 align="center">Repository Structure</h1
 
 The repository is organized as follows:
 
